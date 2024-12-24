@@ -1,0 +1,6 @@
+@EVENTS_PORTAL_BACKEND_HostAddress = http://localhost:5215
+
+GET {{EVENTS_PORTAL_BACKEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
